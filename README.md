@@ -1,0 +1,1 @@
+Good day everyone. This is my first 3mtt project. it is built entirely on html in accordance to the instructions given. The first thing I did was to make a reasearch on it. Then i applied myself to my findings 
